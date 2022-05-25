@@ -1,0 +1,17 @@
+smart phone:
+
+data:
+    images
+    videos
+    alphanumeric
+
+functions of the phone:
+    call()
+    text()
+    storeData()
+    takePictures()
+    playMusic()
+
+types of phones 
+    android
+    ios/Apple
